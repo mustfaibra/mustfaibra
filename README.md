@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mustfaibra" target="blank"><img src="https://img.shields.io/twitter/follow/mustfaibra?logo=twitter&style=for-the-badge" alt="mustfaibra" /></a> </p>
 
-- 🔭 I’m currently working on **Abrof**
-
-- 🌱 I’m currently learning **KMM**
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mustafa-ibrahim-58b918206/](https://www.linkedin.com/in/mustafa-ibrahim-58b918206/)
 
-- 💬 Ask me about **Android, Kotlin, Java, Jetpack Compose and KMM.**
+- 💬 Ask me about **Android, Kotlin, Java, Jetpack Compose and KMP.**
 
-- 📫 How to reach me **mi0117634@gmail.com**
+- 📫 How to reach me **mustafa.ibrahim.ah@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mustafa-ibrahim-58b918206/](https://www.linkedin.com/in/mustafa-ibrahim-58b918206/)
 
